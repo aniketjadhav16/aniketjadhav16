@@ -30,3 +30,5 @@ I'm open to collaborations and excited about working on new projects. Let's conn
 Feel free to reach out! Let's code our way to the future! 🚀✨
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketjadhav16&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketjadhav16&layout=compact)
