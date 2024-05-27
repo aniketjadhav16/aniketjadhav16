@@ -28,3 +28,5 @@ I'm open to collaborations and excited about working on new projects. Let's conn
 - Twitter: @Aniketjadhav__
 
 Feel free to reach out! Let's code our way to the future! 🚀✨
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketjadhav16&show_icons=true&theme=transparent)
