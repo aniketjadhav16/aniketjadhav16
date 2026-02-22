@@ -24,7 +24,6 @@ I'm open to collaborations and excited about working on new projects. Let's conn
 
 ## 📫 Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/aniket-arun-jadhav
 - Twitter: @Aniketjadhav__
 
 Feel free to reach out! Let's code our way to the future! 🚀✨
