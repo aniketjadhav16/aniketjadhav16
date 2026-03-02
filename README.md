@@ -27,5 +27,3 @@ I'm open to collaborations and excited about working on new projects. Let's conn
 - Twitter: @Aniketjadhav__
 
 Feel free to reach out! Let's code our way to the future! 🚀✨
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketjadhav16&layout=compact)
