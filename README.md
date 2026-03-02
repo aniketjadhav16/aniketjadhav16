@@ -4,10 +4,11 @@ I'm a frontend developer passionate about crafting delightful user experiences a
 
 ## 🚀 Skills and Expertise
 
-- **Frontend:** HTML, CSS, JavaScript, React, Vue.js
-- **Backend:** Node.js, Express.js
-- **Blockchain:** Solidity, Smart Contracts
-- **Database:** Learning SQL/NoSQL
+- **Languages**: HTML, CSS, JavaScript, TypeScript, Python, Java
+- **Frameworks/Libraries**: React.js, React Native, Redux, Tailwind CSS, Bootstrap
+- **UI/UX**: Figma, UI/UX Design, Wireframing, Prototyping, Accessibility (WCAG)
+- **Tools**: Git, GitHub, VS Code, Chrome DevTools, Webpack
+- **Other**: Responsive Design, REST APIs, MySQL, SQLite, AsyncStorage
 
 ## 🔭 Currently Learning
 
